@@ -77,7 +77,7 @@ describe("index.js", () => {
     expect(song).to.equal("Never Before, Never Again")
     expect(job).to.exist
     expect(job).to.equal("Cast member of The Muppet Show")
-    expect(partner).to.exist
+      expect(partner).to.exist
     expect(partner).to.equal("Kermit")
   })
   
